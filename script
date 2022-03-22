@@ -1,7 +1,4 @@
 <script>
-<!-- Fake virus and format made by Coolmale at MasterMinds Forever -->
-<!-- Type  http://www.angelfire.com/nm/wimmer1/password.html to get there -->
-<!-- Please don't copy this without giving the proper credit -->
 window.onerror=null;
 var down;
 
@@ -61,6 +58,5 @@ alert("HEY TU")
 alert("GRACIAS POR ENTRAR A LA PAGINA");
 alert("XD");
 
-// end hide -->
 
 </SCRIPT>
